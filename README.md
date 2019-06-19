@@ -20,7 +20,7 @@ In this project, I defined and trained a DCGAN on a dataset of faces. The goal o
 
 1. Clone the repository and navigage to the downloaded folder.
 	```
-		git clone https://github.com/choonghee-lee/Face-Generation
+		git clone https://github.com/BV-Pradeep/Udacity-DLND-Generating-Faces
 		cd Face-Generation
 	```
 2. Open the `dlnd_face_generation.ipynb` file. Of course, you can find HTML version of the file.
@@ -69,10 +69,3 @@ In this project, I defined and trained a DCGAN on a dataset of faces. The goal o
 The list below represents main libraries and its objects for the project.
 - [PyTorch](https://pytorch.org) (Generator and Discriminator)
 
-### Accelerating the Training Process
-
-In the training phase, it takes your time too much so I recommend you to use a GPU to train the dataset of faces.
-
-### Amazon Web Services
-
-You can use Amazon Web Services to launch an EC2 GPU instance. (This costs money!)
